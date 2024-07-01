@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ABRAM_PBI_MOBILE</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="api_key">b581a64e0ea1441ea2ae591f921cba43</string>
+</resources>
